@@ -1,0 +1,14 @@
+{
+  "JSON_OUTPUT_DIR": "Json",
+  "CS_OUTPUT_DIR": "Cs",
+  "USE_UNITY": true,
+  "USE_NEWTONSOFT": true,
+  "USE_CONFIG_ATTR": true,
+  "EXCEL_SOURCE_DIR": ".",
+
+  "LOG_FILE": "export_log.txt",
+  "INT_RANGE_CHECK": true,
+  "MAX_ISSUES_PER_FILE": 300,
+  "REQUIRED_FIELDS": {},
+  "REF_RULES": {}
+}

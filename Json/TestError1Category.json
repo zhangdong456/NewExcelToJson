@@ -1,0 +1,13 @@
+{
+  "dataList": [
+    {
+      "Id": 1,
+      "Name": "abc",
+      "BadType": "x",
+      "ArrOnly1Col": [
+        100
+      ],
+      "Next": "200"
+    }
+  ]
+}
